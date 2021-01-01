@@ -1,0 +1,189 @@
+21:04:54:BeaconAir Started
+16:14:00:BeaconAir Started
+16:17:17:BeaconAir Started
+16:18:58:BeaconAir Started
+16:21:56:BeaconAir Started
+16:24:02:BeaconAir Started
+16:24:47:BeaconAir Started
+16:25:45:BeaconAir Started
+16:27:46:BeaconAir Started
+16:29:23:BeaconAir Started
+16:29:28:closebeacons:0,1,2
+16:34:03:BeaconAir Started
+16:34:05:closebeacons:0,1,2
+16:35:11:BeaconAir Started
+16:35:13:closebeacons:0,1,2
+16:41:52:BeaconAir Started
+18:17:32:BeaconAir Started
+18:20:01:BeaconAir Started
+18:20:38:BeaconAir Started
+18:21:12:BeaconAir Started
+18:21:21:closebeacons:0,2,1
+18:23:17:BeaconAir Started
+18:23:29:closebeacons:0,2,1
+18:23:56:closebeacons:2,0,1
+18:24:05:closebeacons:0,2,1
+18:27:22:closebeacons:2,0,1
+18:27:27:closebeacons:0,2,1
+18:27:27:closebeacons:2,0,1
+18:27:28:closebeacons:0,2,1
+18:28:27:closebeacons:2,0,1
+18:28:28:closebeacons:0,2,1
+18:28:28:closebeacons:2,0,1
+18:28:29:closebeacons:0,2,1
+18:28:30:closebeacons:2,0,1
+18:28:31:closebeacons:0,2,1
+18:30:06:closebeacons:2,0,1
+18:30:08:closebeacons:0,2,1
+18:30:08:closebeacons:2,0,1
+18:30:09:closebeacons:0,2,1
+18:30:23:closebeacons:2,0,1
+18:30:25:closebeacons:0,2,1
+18:32:56:closebeacons:2,0,1
+18:32:56:closebeacons:0,2,1
+18:34:08:closebeacons:2,0,1
+18:34:10:closebeacons:0,2,1
+18:34:26:closebeacons:2,0,1
+18:34:42:closebeacons:0,2,1
+18:34:43:closebeacons:2,0,1
+18:34:45:closebeacons:0,2,1
+18:34:46:closebeacons:2,0,1
+18:34:46:closebeacons:0,2,1
+18:35:10:closebeacons:2,0,1
+18:35:11:closebeacons:0,2,1
+18:35:33:closebeacons:2,0,1
+18:35:36:closebeacons:0,2,1
+18:36:26:closebeacons:2,0,1
+18:36:27:closebeacons:0,2,1
+18:37:08:closebeacons:2,0,1
+18:37:08:closebeacons:0,2,1
+18:37:21:closebeacons:2,0,1
+18:37:21:closebeacons:0,2,1
+18:37:23:closebeacons:2,0,1
+18:37:26:closebeacons:0,2,1
+18:38:17:closebeacons:2,0,1
+18:38:18:closebeacons:0,2,1
+18:38:24:closebeacons:2,0,1
+18:38:25:closebeacons:0,2,1
+18:38:25:closebeacons:2,0,1
+18:38:27:closebeacons:0,2,1
+18:40:48:BeaconAir Started
+18:40:57:closebeacons:0,2,1
+18:40:57:closebeacons:2,0,1
+18:41:04:closebeacons:0,2,1
+18:41:05:closebeacons:2,0,1
+18:41:07:closebeacons:0,2,1
+18:41:09:closebeacons:2,0,1
+18:41:10:closebeacons:0,2,1
+18:41:11:closebeacons:2,0,1
+18:41:14:closebeacons:0,2,1
+18:41:16:closebeacons:2,0,1
+18:41:19:closebeacons:0,2,1
+18:41:45:BeaconAir Started
+18:41:46:closebeacons:0,2,1
+18:44:14:BeaconAir Started
+18:44:17:closebeacons:0,1,2
+18:45:33:BeaconAir Started
+18:45:35:closebeacons:0,1,2
+18:46:02:BeaconAir Started
+18:46:03:closebeacons:0,1,2
+18:48:58:closebeacons:1,0,2
+18:49:09:closebeacons:0,1,2
+18:49:59:closebeacons:1,0,2
+18:50:07:closebeacons:0,1,2
+18:50:12:closebeacons:1,0,2
+18:50:20:closebeacons:0,1,2
+18:50:27:closebeacons:1,0,2
+18:51:55:closebeacons:0,1,2
+18:52:01:closebeacons:1,0,2
+18:52:08:closebeacons:0,1,2
+18:52:43:closebeacons:1,0,2
+18:53:37:closebeacons:0,1,2
+18:54:09:closebeacons:1,0,2
+18:54:21:closebeacons:0,1,2
+18:54:26:closebeacons:1,0,2
+18:55:05:closebeacons:0,1,2
+18:56:02:closebeacons:1,0,2
+18:59:28:closebeacons:0,1,2
+19:01:14:closebeacons:1,0,2
+19:01:15:closebeacons:0,1,2
+19:01:26:closebeacons:1,0,2
+19:01:33:closebeacons:0,1,2
+19:03:31:closebeacons:1,0,2
+19:03:39:closebeacons:0,1,2
+19:03:48:closebeacons:1,0,2
+19:03:51:closebeacons:0,1,2
+19:03:52:closebeacons:1,0,2
+19:03:53:closebeacons:0,1,2
+19:05:15:closebeacons:1,0,2
+19:05:28:closebeacons:0,1,2
+19:06:28:closebeacons:1,0,2
+19:06:30:closebeacons:0,1,2
+19:07:14:closebeacons:1,0,2
+19:07:15:closebeacons:0,1,2
+19:09:21:closebeacons:1,0,2
+19:09:22:closebeacons:0,1,2
+19:09:42:BeaconAir Started
+19:09:43:closebeacons:0,1,2
+19:10:07:closebeacons:1,0,2
+19:10:16:closebeacons:0,1,2
+19:10:21:closebeacons:1,0,2
+19:10:28:closebeacons:0,1,2
+19:10:29:closebeacons:1,0,2
+19:10:52:closebeacons:0,1,2
+19:11:39:closebeacons:0,2,1
+19:14:18:BeaconAir Started
+19:14:25:closebeacons:0,2,1
+19:14:51:BeaconAir Started
+19:14:53:closebeacons:0,2,1
+19:21:30:BeaconAir Started
+19:21:30:closebeacons:0,2,1
+19:26:06:BeaconAir Started
+19:26:07:closebeacons:0,2,1
+17:34:39:BeaconAir Started
+17:34:41:closebeacons:0,2,1
+17:35:13:closebeacons:0,1,2
+17:35:14:closebeacons:0,2,1
+17:36:34:BeaconAir Started
+17:36:36:closebeacons:0,2,1
+17:45:53:BeaconAir Started
+17:45:57:closebeacons:0,1,2
+17:50:20:BeaconAir Started
+17:50:21:closebeacons:0,1,2
+17:50:22:Light#0 (Lab desk) turned OFF 
+17:51:03:BeaconAir Started
+17:51:07:closebeacons:0,1,2
+17:51:07:Light#0 (Lab desk) turned OFF 
+17:51:17:closebeacons:0,2,1
+17:52:53:closebeacons:0,1,2
+17:54:00:closebeacons:0,2,1
+17:54:06:closebeacons:0,1,2
+17:55:46:closebeacons:0,2,1
+17:55:48:closebeacons:0,1,2
+17:55:53:closebeacons:0,2,1
+17:55:54:closebeacons:0,1,2
+17:55:58:closebeacons:0,2,1
+17:56:00:closebeacons:0,1,2
+17:56:17:BeaconAir Started
+17:56:18:closebeacons:0,1,2
+17:56:18:Light#0 (Lab desk) turned OFF 
+17:56:21:closebeacons:0,2,1
+17:56:24:closebeacons:0,1,2
+17:56:31:closebeacons:0,2,1
+17:56:32:closebeacons:0,1,2
+17:56:33:closebeacons:0,2,1
+17:56:36:closebeacons:0,1,2
+17:56:36:closebeacons:0,2,1
+17:56:38:closebeacons:0,1,2
+17:56:40:closebeacons:0,2,1
+17:56:43:closebeacons:0,1,2
+17:56:44:closebeacons:0,2,1
+17:56:44:closebeacons:0,1,2
+17:56:59:closebeacons:0,2,1
+17:57:00:closebeacons:0,1,2
+17:57:01:closebeacons:0,2,1
+17:57:03:closebeacons:0,1,2
+17:57:11:closebeacons:0,2,1
+17:57:24:closebeacons:0,1,2
+17:57:29:closebeacons:0,2,1
+17:58:08:closebeacons:2,0,1

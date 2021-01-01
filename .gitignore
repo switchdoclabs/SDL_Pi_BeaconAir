@@ -1,0 +1,12 @@
+*.pyc
+tx*
+.*.swp
+*.xml
+*.temp
+*.test
+nohup.out
+*.JSON
+.*DS_Store
+config/conflocal.py
+__pycache__
+.idea
