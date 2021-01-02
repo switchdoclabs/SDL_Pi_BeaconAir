@@ -121,16 +121,6 @@ def processCommand():
                 completeCommand()
                 return True
 
-        if (command == "BEACONON"):
-                BEACON_ON = True
-                completeCommand()
-                return True
-
-        if (command == "BEACONOFF"):
-                BEACON_ON = False
-                completeCommand()
-                return True
-
         if (command == "DISPLAYBEACONON"):
                 DISPLAY_BEACON_ON = True
                 completeCommand()

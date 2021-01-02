@@ -1,8 +1,7 @@
-
 #
 #
 # configuration file - contains customization for exact system
-# JCS 06/07/2014
+# SwitchDoc Labs 2020 
 #
 serverURL = "http://example.example.com:9600"
 
@@ -14,7 +13,7 @@ LIGHT_DISTANCE_SENSITIVITY = 2.0
 # list of iBeacons with x,y coordinates.  Top left corner of image is 0,0
 # list of lists
 # Beacon format:
-#     BeaconNumber, LocalName, x, y, UDID, Major, Minor, Measured Power (from spec), x in px, y in px
+#     BeaconNumber, LocalName, x, y, MAC, Major, Minor, Measured Power (from spec), x in px, y in px
 # BeaconNumber is incremental from 0 up.  Don't skip a number
 
 #pix converter
@@ -28,35 +27,35 @@ def meterToPixel(meters):
 BeaconList=[]
 BeaconCount = 0
 
-Beacon = [BeaconCount,"Estimote #0 Beacon", pixelConv(314), pixelConv(507),  "b9407f30f5f8466eaff925556b57fe6d", 64507, 5414, -64, 314, 507]
+Beacon = [BeaconCount,"Estimote #0 Beacon", pixelConv(314), pixelConv(507),  "43:ed:21:ac:77:ed", 64507, 5414, -64, 314, 507]
 BeaconList.append(Beacon)
 BeaconCount += 1
 
-Beacon = [BeaconCount,"Estimote #1 Beacon", pixelConv(110), pixelConv(36),  "b9407f30f5f8466eaff925556b57fe6d", 28849,11936, -64, 137, 36]
+Beacon = [BeaconCount,"Estimote #1 Beacon", pixelConv(110), pixelConv(36),  "53:1f:e6:22:6c:0c", 28849,11936, -64, 137, 36]
 BeaconList.append(Beacon)
 BeaconCount += 1
 
-Beacon = [BeaconCount,"Estimote #2 Beacon", pixelConv(137), pixelConv(144),  "b9407f30f5f8466eaff925556b57fe6d", 56124, 58492, -64, 137, 144]
+Beacon = [BeaconCount,"Estimote #2 Beacon", pixelConv(137), pixelConv(144),  "f8:04:2e:bf:d2:05", 56124, 58492, -64, 137, 144]
 BeaconList.append(Beacon)
 BeaconCount += 1
 
-Beacon = [BeaconCount,"Estimote #3 Beacon", pixelConv(188), pixelConv(57),  "b9407f30f5f8466eaff925556b57fe6d", 740, 4735, -64, 188, 57]
+Beacon = [BeaconCount,"Estimote #3 Beacon", pixelConv(188), pixelConv(57),  "f8:04:2e:bf:c2:65", 740, 4735, -64, 188, 57]
 BeaconList.append(Beacon)
 BeaconCount += 1
 
-Beacon = [BeaconCount,"Estimote #4 Beacon", pixelConv(198), pixelConv(135),  "b9407f30f5f8466eaff925556b57fe6d", 28495, 8272, -64, 198, 135]
+Beacon = [BeaconCount,"Estimote #4 Beacon", pixelConv(198), pixelConv(135),  "5a:44:d7:bc:d0:36", 28495, 8272, -64, 198, 135]
 BeaconList.append(Beacon)
 BeaconCount += 1
 
-Beacon = [BeaconCount,"Estimote #5 Beacon", pixelConv(272), pixelConv(145),  "b9407f30f5f8466eaff925556b57fe6d", 13072, 42423, -64, 272, 145]
+Beacon = [BeaconCount,"Estimote #5 Beacon", pixelConv(272), pixelConv(145),  "71:c4:3d:c4:78:d6", 13072, 42423, -64, 272, 145]
 BeaconList.append(Beacon)
 BeaconCount += 1
 
-Beacon = [BeaconCount, "ParticleFirst Beacon", pixelConv(315), pixelConv(435),  "8a ef b0 31 6c 32 48 6f 82 5b e2 6f a1 93 48 7d", 0, 0, -73, 315, 435]
+Beacon = [BeaconCount, "ParticleFirst Beacon", pixelConv(315), pixelConv(435),  "dc:56:e7:49:39:f3", 0, 0, -73, 315, 435]
 BeaconList.append(Beacon)
 BeaconCount += 1
 
-Beacon = [BeaconCount, "ParticleSecond Beacon", pixelConv(290), pixelConv(470), "8a ef b0 31 6c 32 48 6f 82 5b e2 6f a1 93 48 7d", 1, 1, -73, 290, 470]
+Beacon = [BeaconCount, "ParticleSecond Beacon", pixelConv(290), pixelConv(470), "32:dd:60:b6:bd:e9", 1, 1, -73, 290, 470]
 BeaconList.append(Beacon)
 BeaconCount += 1
 
