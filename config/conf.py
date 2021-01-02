@@ -74,19 +74,19 @@ for beacon in BeaconList:
 
 LightList=[]
 LightCount = 0
-Light = [LightCount, "Lab Left", pixelConv(330), pixelConv(435),330, 435,0, 2] 
+Light = [LightCount, "Lab Left", pixelConv(330), pixelConv(435),330, 435,0, 25] 
 LightList.append(Light)
 LightCount += 1
 
-Light = [LightCount, "Lab Right", pixelConv(330), pixelConv(490), 330, 490, 0, 5] 
+Light = [LightCount, "Lab Right", pixelConv(330), pixelConv(490), 330, 490, 0, 25] 
 LightList.append(Light)
 LightCount += 1
 
-Light = [LightCount, "Living Room Top Left", pixelConv(147), pixelConv(36), 147, 36, 0, 7] 
+Light = [LightCount, "Living Room Top Left", pixelConv(147), pixelConv(36), 147, 36, 0, 39] 
 LightList.append(Light)
 LightCount += 1
 
-Light = [LightCount, "Living Room Top Right", pixelConv(188), pixelConv(47), 188, 47, 0, 6] 
+Light = [LightCount, "Living Room Top Right", pixelConv(188), pixelConv(47), 188, 47, 0, 38] 
 LightList.append(Light)
 LightCount += 1
 
@@ -95,22 +95,22 @@ LightList.append(Light)
 LightCount += 1
 
 
-Light = [LightCount, "Living Room Left Bloom", pixelConv(137), pixelConv(126), 137, 126, 0, 9] 
+Light = [LightCount, "Living Room Left Bloom", pixelConv(137), pixelConv(126), 137, 126, 0, 40] 
 LightList.append(Light)
 LightCount += 1
 
 
-Light = [LightCount, "Living Room Right Bloom", pixelConv(237), pixelConv(25), 237, 25, 0, 10] 
+Light = [LightCount, "Living Room Right Bloom", pixelConv(237), pixelConv(25), 237, 25, 0, 41] 
 LightList.append(Light)
 LightCount += 1
 
 
-Light = [LightCount, "Right Bedroom", pixelConv(31), pixelConv(59), 31, 59, 0, 10] 
+Light = [LightCount, "Right Bedroom", pixelConv(31), pixelConv(59), 31, 59, 0, 26] 
 LightList.append(Light)
 LightCount += 1
 
 
-Light = [LightCount, "Left Bedroom", pixelConv(32), pixelConv(115), 31, 115, 0, 10] 
+Light = [LightCount, "Left Bedroom", pixelConv(32), pixelConv(115), 31, 115, 0, 58] 
 LightList.append(Light)
 LightCount += 1
 

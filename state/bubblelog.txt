@@ -187,3 +187,465 @@
 17:57:24:closebeacons:0,1,2
 17:57:29:closebeacons:0,2,1
 17:58:08:closebeacons:2,0,1
+18:13:09:BeaconAir Started
+18:13:12:closebeacons:2,0,1
+18:13:12:Light#0 (Lab desk) turned ON 
+18:13:27:closebeacons:0,2,1
+18:13:34:closebeacons:2,0,1
+18:13:35:closebeacons:0,2,1
+18:13:47:closebeacons:2,0,1
+18:13:48:closebeacons:0,2,1
+18:13:50:closebeacons:2,0,1
+18:13:51:closebeacons:0,2,1
+18:13:52:closebeacons:2,0,1
+18:13:54:closebeacons:0,2,1
+18:13:55:closebeacons:2,0,1
+18:13:56:closebeacons:0,2,1
+18:14:52:closebeacons:2,0,1
+18:14:53:closebeacons:0,2,1
+18:15:04:closebeacons:0,1,2
+18:15:04:Light#0 (Lab desk) turned OFF 
+18:15:35:closebeacons:1,0,2
+18:15:36:closebeacons:0,1,2
+18:15:38:closebeacons:1,0,2
+18:15:41:closebeacons:0,1,2
+18:15:46:closebeacons:1,0,2
+18:15:47:closebeacons:0,1,2
+18:15:47:closebeacons:1,0,2
+18:15:55:closebeacons:1,2,0
+18:15:58:closebeacons:1,0,2
+18:16:00:closebeacons:1,2,0
+18:16:04:closebeacons:1,0,2
+18:16:07:closebeacons:1,2,0
+18:16:07:closebeacons:1,0,2
+18:16:09:closebeacons:1,2,0
+18:16:14:closebeacons:1,0,2
+18:16:16:closebeacons:1,2,0
+18:16:19:closebeacons:1,0,2
+18:16:24:closebeacons:0,1,2
+18:16:26:closebeacons:1,0,2
+18:16:27:closebeacons:0,1,2
+18:16:29:closebeacons:1,0,2
+18:16:31:closebeacons:0,1,2
+18:16:31:closebeacons:1,0,2
+18:16:39:closebeacons:0,1,2
+18:17:05:closebeacons:1,0,2
+18:17:07:closebeacons:0,1,2
+18:17:07:closebeacons:1,0,2
+18:17:26:closebeacons:0,1,2
+18:17:28:closebeacons:1,0,2
+18:17:29:closebeacons:0,1,2
+18:17:29:closebeacons:1,0,2
+18:17:31:closebeacons:0,1,2
+18:17:48:closebeacons:1,0,2
+18:18:12:closebeacons:0,1,2
+18:18:14:closebeacons:1,0,2
+18:18:14:closebeacons:0,1,2
+18:18:18:closebeacons:1,0,2
+18:18:24:closebeacons:0,1,2
+18:18:31:closebeacons:1,0,2
+18:18:36:closebeacons:1,2,0
+18:18:57:closebeacons:1,0,2
+18:19:03:closebeacons:1,2,0
+18:19:39:closebeacons:1,0,2
+18:19:39:closebeacons:1,2,0
+18:19:41:closebeacons:1,0,2
+18:19:44:closebeacons:1,2,0
+18:19:45:closebeacons:1,0,2
+18:19:53:closebeacons:1,2,0
+18:20:24:closebeacons:1,0,2
+18:20:26:closebeacons:1,2,0
+18:20:46:closebeacons:1,0,2
+18:20:49:closebeacons:1,2,0
+18:21:00:closebeacons:1,0,2
+18:21:05:closebeacons:1,2,0
+18:21:06:closebeacons:1,0,2
+18:21:07:closebeacons:1,2,0
+18:21:16:closebeacons:1,0,2
+18:21:22:BeaconAir Started
+18:21:24:closebeacons:2,0,1
+18:21:24:Light#0 (Lab desk) turned ON 
+18:21:45:closebeacons:2,1,0
+18:21:45:Light#0 (Lab desk) turned OFF 
+18:21:48:closebeacons:2,0,1
+18:21:48:Light#0 (Lab desk) turned ON 
+18:21:49:closebeacons:2,1,0
+18:21:49:Light#0 (Lab desk) turned OFF 
+18:21:50:closebeacons:2,0,1
+18:21:50:Light#0 (Lab desk) turned ON 
+18:21:51:closebeacons:2,1,0
+18:21:51:Light#0 (Lab desk) turned OFF 
+18:22:24:closebeacons:2,0,1
+18:22:24:Light#0 (Lab desk) turned ON 
+18:23:41:closebeacons:2,1,0
+18:23:41:Light#0 (Lab desk) turned OFF 
+18:24:47:closebeacons:1,2,0
+18:24:52:closebeacons:2,1,0
+18:24:54:closebeacons:1,2,0
+18:24:55:closebeacons:2,1,0
+18:24:56:closebeacons:1,2,0
+18:25:47:BeaconAir Started
+18:25:49:closebeacons:1,2,0
+18:25:49:Light#0 (Lab desk) turned OFF 
+18:26:34:BeaconAir Started
+18:26:36:closebeacons:1,2,0
+18:26:36:Light#0 (Lab desk) turned OFF 
+18:27:23:closebeacons:2,1,0
+18:27:24:closebeacons:1,2,0
+18:27:26:closebeacons:2,1,0
+18:27:27:closebeacons:1,2,0
+18:27:28:closebeacons:2,1,0
+18:27:29:closebeacons:1,2,0
+18:28:47:closebeacons:1,0,2
+18:28:48:closebeacons:1,2,0
+18:28:50:closebeacons:2,1,0
+18:28:52:closebeacons:1,2,0
+18:28:53:closebeacons:2,1,0
+18:28:54:closebeacons:1,2,0
+18:28:57:closebeacons:2,1,0
+18:28:58:closebeacons:1,2,0
+18:29:01:closebeacons:2,1,0
+18:29:04:closebeacons:1,2,0
+18:29:06:closebeacons:0,1,2
+18:29:06:closebeacons:1,0,2
+18:29:07:closebeacons:1,2,0
+18:29:18:closebeacons:2,1,0
+18:29:19:closebeacons:1,2,0
+18:29:27:Light#0 (Lab desk) turned ON 
+18:29:27:Light#0 (Lab desk) turned OFF 
+18:29:31:closebeacons:2,1,0
+18:29:39:closebeacons:1,2,0
+18:30:02:closebeacons:2,1,0
+18:30:33:closebeacons:1,2,0
+18:30:35:closebeacons:2,1,0
+18:30:39:closebeacons:1,2,0
+18:30:42:closebeacons:2,1,0
+18:30:42:closebeacons:1,2,0
+18:30:45:closebeacons:2,1,0
+18:30:48:closebeacons:1,2,0
+18:30:49:closebeacons:2,1,0
+18:30:56:closebeacons:1,2,0
+18:30:57:closebeacons:2,1,0
+18:30:59:closebeacons:1,2,0
+18:31:19:closebeacons:2,1,0
+18:31:27:closebeacons:1,2,0
+18:31:37:closebeacons:2,1,0
+18:31:38:closebeacons:1,2,0
+18:31:39:closebeacons:2,1,0
+18:31:42:closebeacons:1,2,0
+18:31:42:closebeacons:2,1,0
+18:31:50:closebeacons:1,2,0
+18:31:51:closebeacons:2,1,0
+18:31:57:closebeacons:1,2,0
+18:31:58:closebeacons:2,1,0
+18:32:00:closebeacons:1,2,0
+18:32:23:closebeacons:1,0,2
+18:32:24:closebeacons:1,2,0
+18:32:26:closebeacons:1,0,2
+18:32:29:closebeacons:1,2,0
+18:32:45:Light#0 (Lab desk) turned ON 
+18:32:45:Light#0 (Lab desk) turned OFF 
+18:32:47:Light#0 (Lab desk) turned ON 
+18:32:48:Light#0 (Lab desk) turned OFF 
+18:32:49:Light#0 (Lab desk) turned ON 
+18:32:51:Light#0 (Lab desk) turned OFF 
+18:32:53:closebeacons:1,0,2
+18:32:56:closebeacons:1,2,0
+18:33:01:Light#0 (Lab desk) turned ON 
+18:33:07:Light#0 (Lab desk) turned OFF 
+18:33:07:Light#0 (Lab desk) turned ON 
+18:33:08:Light#0 (Lab desk) turned OFF 
+18:33:16:Light#0 (Lab desk) turned ON 
+18:33:17:Light#0 (Lab desk) turned OFF 
+18:33:18:Light#0 (Lab desk) turned ON 
+18:33:21:Light#0 (Lab desk) turned OFF 
+18:33:28:Light#0 (Lab desk) turned ON 
+18:33:30:Light#0 (Lab desk) turned OFF 
+18:33:37:Light#0 (Lab desk) turned ON 
+18:33:38:Light#0 (Lab desk) turned OFF 
+18:34:51:closebeacons:1,0,2
+18:34:56:closebeacons:1,2,0
+18:35:09:closebeacons:2,1,0
+18:35:10:closebeacons:1,2,0
+18:35:16:closebeacons:2,1,0
+18:35:19:closebeacons:1,2,0
+18:35:21:closebeacons:2,1,0
+18:35:23:closebeacons:1,2,0
+18:35:23:closebeacons:1,0,2
+18:35:26:closebeacons:1,2,0
+18:35:27:closebeacons:0,1,2
+18:35:28:closebeacons:1,0,2
+18:35:28:closebeacons:0,1,2
+18:35:29:closebeacons:1,2,0
+18:35:33:closebeacons:2,1,0
+18:35:34:closebeacons:1,2,0
+18:35:36:closebeacons:2,1,0
+18:35:37:closebeacons:1,2,0
+18:35:41:closebeacons:2,1,0
+18:35:42:closebeacons:1,2,0
+18:35:44:closebeacons:0,1,2
+18:35:45:closebeacons:1,0,2
+18:35:46:closebeacons:0,1,2
+18:35:51:closebeacons:1,0,2
+18:35:52:closebeacons:1,2,0
+18:36:23:closebeacons:1,0,2
+18:36:26:closebeacons:1,2,0
+18:37:02:Light#0 (Lab desk) turned ON 
+18:37:05:Light#0 (Lab desk) turned OFF 
+18:37:28:closebeacons:2,1,0
+18:37:34:closebeacons:1,2,0
+18:37:35:closebeacons:2,1,0
+18:37:36:closebeacons:1,2,0
+18:37:38:closebeacons:2,1,0
+18:37:40:Light#0 (Lab desk) turned ON 
+18:37:41:closebeacons:1,2,0
+18:37:42:closebeacons:2,1,0
+18:37:42:Light#0 (Lab desk) turned OFF 
+18:37:44:closebeacons:1,2,0
+18:37:46:Light#0 (Lab desk) turned ON 
+18:37:46:closebeacons:2,1,0
+18:37:50:Light#0 (Lab desk) turned OFF 
+18:37:54:closebeacons:1,2,0
+18:37:55:closebeacons:2,1,0
+18:37:55:Light#0 (Lab desk) turned ON 
+18:37:56:Light#0 (Lab desk) turned OFF 
+18:37:59:closebeacons:1,2,0
+18:38:00:closebeacons:2,1,0
+18:38:04:Light#0 (Lab desk) turned ON 
+18:38:04:Light#0 (Lab desk) turned OFF 
+18:38:05:Light#0 (Lab desk) turned ON 
+18:38:06:Light#0 (Lab desk) turned OFF 
+18:38:09:Light#0 (Lab desk) turned ON 
+18:38:10:Light#0 (Lab desk) turned OFF 
+18:38:11:Light#0 (Lab desk) turned ON 
+18:38:12:Light#0 (Lab desk) turned OFF 
+18:38:13:Light#0 (Lab desk) turned ON 
+18:38:15:Light#0 (Lab desk) turned OFF 
+18:38:18:Light#0 (Lab desk) turned ON 
+18:38:19:Light#0 (Lab desk) turned OFF 
+18:38:24:closebeacons:1,2,0
+18:38:27:closebeacons:2,1,0
+18:38:27:Light#0 (Lab desk) turned ON 
+18:38:28:closebeacons:1,2,0
+18:38:30:closebeacons:2,1,0
+18:38:33:Light#0 (Lab desk) turned OFF 
+18:38:34:Light#0 (Lab desk) turned ON 
+18:38:38:closebeacons:1,2,0
+18:38:38:Light#0 (Lab desk) turned OFF 
+18:38:39:Light#0 (Lab desk) turned ON 
+18:38:40:closebeacons:2,1,0
+18:38:46:Light#0 (Lab desk) turned OFF 
+18:38:47:Light#0 (Lab desk) turned ON 
+18:39:05:Light#0 (Lab desk) turned OFF 
+18:39:14:Light#0 (Lab desk) turned ON 
+18:39:17:Light#0 (Lab desk) turned OFF 
+18:39:20:Light#0 (Lab desk) turned ON 
+18:39:21:Light#0 (Lab desk) turned OFF 
+18:39:29:Light#0 (Lab desk) turned ON 
+18:39:30:Light#0 (Lab desk) turned OFF 
+18:39:32:Light#0 (Lab desk) turned ON 
+18:39:34:Light#0 (Lab desk) turned OFF 
+18:39:34:Light#0 (Lab desk) turned ON 
+18:39:36:Light#0 (Lab desk) turned OFF 
+18:39:40:closebeacons:1,2,0
+18:39:48:closebeacons:2,1,0
+18:39:51:closebeacons:1,2,0
+18:39:51:closebeacons:2,1,0
+18:39:55:closebeacons:1,2,0
+18:39:56:closebeacons:2,1,0
+18:40:00:closebeacons:1,2,0
+18:40:20:closebeacons:2,1,0
+18:40:54:closebeacons:1,2,0
+18:41:02:closebeacons:2,1,0
+18:41:04:closebeacons:1,2,0
+18:41:07:closebeacons:2,1,0
+18:41:10:closebeacons:1,2,0
+18:41:11:closebeacons:2,1,0
+18:41:13:closebeacons:1,2,0
+18:41:14:closebeacons:2,1,0
+18:41:27:closebeacons:1,2,0
+18:41:31:closebeacons:2,1,0
+18:41:32:closebeacons:1,2,0
+18:41:34:closebeacons:2,1,0
+18:41:49:closebeacons:1,2,0
+18:41:54:closebeacons:2,1,0
+18:41:55:closebeacons:1,2,0
+18:42:02:closebeacons:2,1,0
+18:42:03:closebeacons:1,2,0
+18:42:07:closebeacons:2,1,0
+18:42:08:closebeacons:1,2,0
+18:42:33:closebeacons:2,1,0
+18:42:58:BeaconAir Started
+18:43:00:closebeacons:1,2,0
+18:43:00:Light#0 (Lab desk) turned ON 
+18:43:02:Light#0 (Lab desk) turned OFF 
+18:43:09:closebeacons:2,1,0
+18:43:39:closebeacons:1,2,0
+18:43:51:closebeacons:2,1,0
+18:43:52:closebeacons:1,2,0
+18:43:53:closebeacons:2,1,0
+18:43:55:closebeacons:1,2,0
+18:43:56:closebeacons:2,1,0
+18:43:58:closebeacons:1,2,0
+18:43:59:closebeacons:2,1,0
+18:44:10:closebeacons:1,2,0
+18:44:11:closebeacons:2,1,0
+18:44:16:closebeacons:1,2,0
+18:44:18:closebeacons:2,1,0
+18:44:31:closebeacons:1,2,0
+18:44:36:closebeacons:2,1,0
+18:44:40:closebeacons:1,2,0
+18:44:42:BeaconAir Started
+18:44:46:closebeacons:2,1,0
+18:44:46:Light#0 (Lab desk) turned OFF 
+18:44:49:closebeacons:1,2,0
+18:45:18:closebeacons:2,1,0
+18:45:21:closebeacons:1,2,0
+18:45:30:closebeacons:2,1,0
+18:45:45:closebeacons:1,2,0
+18:45:47:closebeacons:2,1,0
+18:45:52:closebeacons:1,2,0
+18:46:02:closebeacons:2,1,0
+18:46:31:Light#0 (Lab desk) turned ON 
+18:46:34:Light#0 (Lab desk) turned OFF 
+18:46:36:Light#0 (Lab desk) turned ON 
+18:46:43:Light#0 (Lab desk) turned OFF 
+18:46:46:Light#0 (Lab desk) turned ON 
+18:46:47:Light#0 (Lab desk) turned OFF 
+18:46:51:closebeacons:1,2,0
+18:46:55:closebeacons:2,1,0
+18:46:56:closebeacons:1,2,0
+18:47:18:closebeacons:2,1,0
+18:47:23:closebeacons:1,2,0
+18:47:23:closebeacons:2,1,0
+18:47:30:closebeacons:1,2,0
+18:47:31:closebeacons:2,1,0
+18:47:31:closebeacons:1,2,0
+18:47:37:closebeacons:2,1,0
+18:47:37:closebeacons:1,2,0
+18:47:39:closebeacons:2,1,0
+18:47:47:closebeacons:1,2,0
+18:47:48:closebeacons:2,1,0
+18:49:13:closebeacons:1,2,0
+18:49:35:closebeacons:2,1,0
+18:49:55:closebeacons:1,2,0
+18:49:57:closebeacons:2,1,0
+18:49:59:closebeacons:1,2,0
+18:50:19:closebeacons:2,1,0
+18:51:18:Light#0 (Lab desk) turned ON 
+18:51:22:closebeacons:1,2,0
+18:51:26:closebeacons:2,1,0
+18:51:27:closebeacons:1,2,0
+18:51:29:Light#0 (Lab desk) turned OFF 
+18:51:31:Light#0 (Lab desk) turned ON 
+18:51:43:closebeacons:2,1,0
+18:51:51:closebeacons:1,2,0
+18:51:57:Light#0 (Lab desk) turned OFF 
+18:53:18:closebeacons:2,1,0
+18:53:20:closebeacons:1,2,0
+18:53:20:Light#0 (Lab desk) turned ON 
+18:53:21:Light#0 (Lab desk) turned OFF 
+18:53:23:Light#0 (Lab desk) turned ON 
+18:53:25:Light#0 (Lab desk) turned OFF 
+18:54:01:Light#0 (Lab desk) turned ON 
+18:54:02:Light#0 (Lab desk) turned OFF 
+18:54:05:Light#0 (Lab desk) turned ON 
+18:54:12:Light#0 (Lab desk) turned OFF 
+18:54:16:Light#0 (Lab desk) turned ON 
+18:54:36:Light#0 (Lab desk) turned OFF 
+18:54:37:Light#0 (Lab desk) turned ON 
+18:55:49:Light#0 (Lab desk) turned OFF 
+18:55:51:Light#0 (Lab desk) turned ON 
+18:55:56:Light#0 (Lab desk) turned OFF 
+18:55:56:Light#0 (Lab desk) turned ON 
+18:56:23:Light#0 (Lab desk) turned OFF 
+18:56:25:closebeacons:1,0,2
+18:56:34:closebeacons:0,1,2
+18:56:39:closebeacons:1,0,2
+18:56:40:closebeacons:1,2,0
+18:56:51:Light#0 (Lab desk) turned ON 
+18:56:52:Light#0 (Lab desk) turned OFF 
+18:56:53:Light#0 (Lab desk) turned ON 
+18:56:59:Light#0 (Lab desk) turned OFF 
+18:57:33:Light#0 (Lab desk) turned ON 
+18:58:06:closebeacons:2,1,0
+18:58:08:closebeacons:1,2,0
+18:59:41:closebeacons:2,1,0
+18:59:56:closebeacons:1,2,0
+19:00:18:BeaconAir Started
+19:00:24:closebeacons:1,2,0
+19:00:24:Light#0 (Lab desk) turned ON 
+19:00:50:BeaconAir Started
+19:00:52:closebeacons:1,2,0
+19:00:53:Light#0 (Lab desk) turned OFF 
+19:01:08:closebeacons:2,1,0
+19:01:09:Light#0 (Lab desk) turned ON 
+19:01:11:closebeacons:1,2,0
+19:01:11:Light#0 (Lab desk) turned OFF 
+19:01:17:closebeacons:2,1,0
+19:01:19:closebeacons:1,2,0
+19:01:19:Light#0 (Lab desk) turned ON 
+19:01:23:closebeacons:2,1,0
+19:01:25:closebeacons:1,2,0
+19:01:28:closebeacons:2,1,0
+19:01:43:Light#0 (Lab desk) turned OFF 
+19:01:44:closebeacons:1,2,0
+19:01:45:closebeacons:2,1,0
+19:01:48:closebeacons:1,2,0
+19:01:48:Light#0 (Lab desk) turned ON 
+19:01:51:closebeacons:2,1,0
+19:01:52:closebeacons:1,2,0
+19:02:21:Light#0 (Lab desk) turned OFF 
+19:03:14:Light#0 (Lab desk) turned ON 
+19:03:54:Light#0 (Lab desk) turned OFF 
+19:04:26:Light#0 (Lab desk) turned ON 
+19:04:36:Light#0 (Lab desk) turned OFF 
+19:04:42:Light#0 (Lab desk) turned ON 
+19:04:47:BeaconAir Started
+19:04:49:closebeacons:1,2,0
+19:04:49:Light#0 (Lab desk) turned ON 
+19:10:53:BeaconAir Started
+19:14:24:BeaconAir Started
+19:16:51:BeaconAir Started
+19:16:54:closebeacons:1,2,0
+19:16:54:Light#0 (Lab desk) turned OFF 
+19:17:03:Light#0 (Lab desk) turned ON 
+19:17:47:Light#0 (Lab desk) turned OFF 
+19:18:23:Light#0 (Lab desk) turned ON 
+19:18:25:Light#0 (Lab desk) turned OFF 
+19:18:32:closebeacons:1,0,2
+19:18:37:closebeacons:1,2,0
+19:20:28:Light#0 (Lab desk) turned ON 
+19:20:30:Light#0 (Lab desk) turned OFF 
+19:20:41:closebeacons:1,0,2
+19:20:42:closebeacons:1,2,0
+19:20:44:closebeacons:1,0,2
+19:20:46:closebeacons:1,2,0
+19:21:55:closebeacons:1,0,2
+19:22:04:closebeacons:1,2,0
+19:22:26:closebeacons:1,0,2
+19:22:27:closebeacons:1,2,0
+19:22:31:closebeacons:1,0,2
+19:22:32:closebeacons:0,1,2
+19:22:51:closebeacons:1,0,2
+19:22:53:closebeacons:1,2,0
+19:22:55:closebeacons:1,0,2
+19:22:55:closebeacons:1,2,0
+19:23:22:Light#0 (Lab desk) turned ON 
+19:24:22:Light#0 (Lab desk) turned OFF 
+19:24:25:Light#0 (Lab desk) turned ON 
+19:24:25:Light#0 (Lab desk) turned OFF 
+19:24:27:Light#0 (Lab desk) turned ON 
+19:24:29:Light#0 (Lab desk) turned OFF 
+19:24:31:Light#0 (Lab desk) turned ON 
+19:24:42:Light#0 (Lab desk) turned OFF 
+19:24:48:closebeacons:1,0,2
+19:24:53:closebeacons:1,2,0
+19:25:25:Light#0 (Lab desk) turned ON 
+19:26:18:Light#0 (Lab desk) turned OFF 
+19:27:01:closebeacons:1,0,2
+19:27:01:closebeacons:1,2,0
+19:27:05:closebeacons:1,0,2
+19:27:11:closebeacons:1,2,0
+19:27:45:Light#0 (Lab desk) turned ON 
+19:27:52:BeaconAir Started

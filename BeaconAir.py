@@ -1,7 +1,7 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 # BeaconAir - Reads iBeacons and controls HUE lights
-# JCS  6/7/14
+# SwitchDoc Labs December 2020 
 #
 #
 from __future__ import division
@@ -67,7 +67,9 @@ lights.initializeHue('192.168.1.23')
 
 # init light state variables
 for light in conf.LightList:
-	currentLightState.append(lights.getInitialLightState(light[7]))
+    print(type(light[7]))
+    print(light[7])
+    currentLightState.append(lights.getInitialLightState(light[7]))
 
 
 

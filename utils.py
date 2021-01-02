@@ -253,7 +253,7 @@ def printBeaconStatus(beacon, RSSIArray, TimeStampArray, rollingRSSIArray):
 
 def printBeaconDistance(beacon, RSSIArray, TimeStampArray,rollingRSSIArray):
 
-	print("BN: ", beacon[0],"x,y: ", beacon[2], beacon[3],"RSSI:", RSSIArray[beacon[0]], "rollingRSSI: %3.2f" % rollingRSSIArray[beacon[0]] , "Distance: %3.2f" % calculateDistanceWithRSSI(rollingRSSIArray[beacon[0]], beacon[0]))	
+	print("BN:", beacon[0],"x,y:", beacon[2], beacon[3],"RSSI:", RSSIArray[beacon[0]], "rollingRSSI: %3.2f" % rollingRSSIArray[beacon[0]] , "Dist: %3.2f" % calculateDistanceWithRSSI(rollingRSSIArray[beacon[0]], beacon[0]),"TS:", round(TimeStampArray[beacon[0]],0))	
 		
 
 
